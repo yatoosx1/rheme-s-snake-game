@@ -1,2 +1,6 @@
 # rheme-s-snake-game
-A Simple and Fun Snake Game Written in Python: Eat Apples to Win!
+Open setup.py
+If the library is not installed automatically,
+open cmd and enter the following code 
+
+python snakegame.py
